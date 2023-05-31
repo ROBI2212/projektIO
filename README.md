@@ -1,4 +1,4 @@
-# Dobra kurwa to jest plik readme
+# Dobra to jest plik readme
 
 ## Teraz słuchaj mnie uwazanie
 
